@@ -1,0 +1,88 @@
+[
+    { 
+        "productoId": "1", 
+        "productoNombre": "Remera Metallica", 
+        "productoImagen":"./assets/img/products/metallica.jpg", 
+        "productoColor": "negro", 
+        "productoCosto": 15500
+    },
+
+    { 
+        "productoId": "2", 
+        "productoNombre": "Remera Molotov", 
+        "productoImagen":"./assets/img/products/molotov.jpg", 
+        "productoColor": "negro", 
+        "productoCosto": 16500
+    },
+    { 
+        "productoId": "3", 
+        "productoNombre": "Remera slash", 
+        "productoImagen":"./assets/img/products/slash.jpg", 
+        "productoColor": "negro", 
+        "productoCosto": 17500
+    },
+    { 
+        "productoId": "4", 
+        "productoNombre": "Gorra stone",
+        "productoImagen":"./assets/img/products/gorra-rolling-stone.jpg",
+        "productoColor": "negro",
+        "productoCosto": 7500
+    },
+    { 
+        "productoId": "5", 
+        "productoNombre": "Gorra guns", 
+        "productoImagen":"./assets/img/products/guns-and-rose-gorra.jpg",
+        "productoColor": "negro",
+        "productoCosto": 8000
+    },
+    { 
+        "productoId": "6", 
+        "productoNombre": "Pantalon",
+        "productoImagen":"./assets/img/products/pantalon.jpg",
+        "productoColor": "negro",
+        "productoCosto": 100000
+    },
+    { 
+        "productoId": "7", 
+        "productoNombre": "short biker-black",
+        "productoImagen":"./assets/img/products/biker-black.jpg", 
+        "productoColor": "perla",
+        "productoCosto": 33000
+    },
+    { 
+        "productoId": "8", 
+        "productoNombre": "short-shining",
+        "productoImagen":"./assets/img/products/short-shining.jpg",
+        "productoColor": "black", 
+        "productoCosto": 85000
+    },
+    { 
+        "productoId": "9", 
+        "productoNombre": "short bull",
+        "productoImagen":"./assets/img/products/bull.jpg",
+        "productoColor": "black",
+        "productoCosto": 65000
+    },
+    { 
+        "productoId": "10",
+        "productoNombre": "Buzo-La.renga", 
+        "productoImagen":"./assets/img/products/Buzo-La.renga.jpg",
+        "productoColor": "black", 
+        "productoCosto":25000
+    },
+    { 
+        "productoId": "11",
+        "productoNombre": "Lentes-aeronauticos", 
+        "productoImagen":"./assets/img/products/Lentes-aeronauticos.jpg",
+        "productoColor": "verdes",
+        "productoCosto": 7500
+    },
+    { 
+        "productoId": "12",
+        "productoNombre": "Lentes-stone", 
+        "productoImagen":"./assets/img/products/Lentes-stone.jpg",
+        "productoColor": "black",
+        "productoCosto": 2500
+    }
+
+]
